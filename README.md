@@ -23,3 +23,9 @@ gcc main.c admin.c user.c config.c -o app
 
 ## Notes
 Sample data is included in CSV/TXT files.
+
+## Project Structure
+- src/ → source code
+- include/ → header files
+- data/ → sample data files
+- docs/ → documentation
